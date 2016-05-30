@@ -33,7 +33,7 @@ end
   look like your site
 * Test to your heart's content.
 * Look at /var/log/modsec.log and see what you could be blocking
-* Change the "DetectOnly" attribute to "On" and test some more
+* Change the "SecRuleEngine" attribute to "On" and test some more
 
 # Requirements
 
